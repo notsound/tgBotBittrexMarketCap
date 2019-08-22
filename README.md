@@ -6,7 +6,7 @@ The Bot is launched using these libraries: pyTelegramBotAPI and python-bittrex. 
 It is presumed that you have obtained:
 - Telegram API Token with @BotFather (https://core.telegram.org/bots#botfather)
 - Bittrex API Key and Bittrex API Secret (https://international.bittrex.com/)
-- CoinMarketCap API Key and API Secret (https://coinmarketcap.com/api/)
+- CoinMarketCap API Key (https://coinmarketcap.com/api/)
 - Python3 (https://www.python.org/)
 
 All API Keys/Secrets/Token must be specified in the keys_pocket.py file
