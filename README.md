@@ -9,6 +9,8 @@ It is presumed that you have obtained:
 - CoinMarketCap API Key and API Secret (https://coinmarketcap.com/api/)
 - Python3 (https://www.python.org/)
 
+All API Keys/Secrets/Token must be specified in the keys_pocket.py file
+
 ## Installation
 ```
 git clone https://github.com/notsound/tgBotBittrexMarketCap.git
